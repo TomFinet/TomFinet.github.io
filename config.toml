@@ -1,0 +1,4 @@
+baseURL = 'https://tomfinet.github.io'
+languageCode = 'en-us'
+title = 'Learn by project'
+theme = 'simple-style'
