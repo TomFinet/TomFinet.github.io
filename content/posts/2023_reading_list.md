@@ -6,20 +6,16 @@ draft: false
 
 ## Reading
 
-- Discourse on Inequality, Jean-Jacques Rousseau.
+- Fortune de France, Robert Merle.
 
 - [Modern Microprocessors: a 90 minute guide, Jason Robert Carey Patterson](https://www.lighterra.com/papers/modernmicroprocessors/)
 
 ## Queue
 
-- [Machine Learning in Compilers: Past, Present and Future](https://chriscummins.cc/pub/2020-fdl.pdf)
-
 - [What every programmer should know about memory, Ulrich Drepper.](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 - [What Every Computer Scientist Should Know About
 Floating-Point Arithmetic](https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf)
-
-
 
 - [Optimizing software in C++
 An optimization guide for Windows, Linux, and Mac
@@ -38,3 +34,7 @@ platforms, Agner Fog.](https://www.agner.org/optimize/optimizing_cpp.pdf)
 ## Read
 
 - L'éternel marie, Fiodor Dostoïevski.
+
+- Discourse on Inequality, Jean-Jacques Rousseau.
+
+- Never finished, David Goggins.
