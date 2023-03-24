@@ -33,8 +33,10 @@ platforms, Agner Fog.](https://www.agner.org/optimize/optimizing_cpp.pdf)
 
 ## Read
 
-- L'éternel marie, Fiodor Dostoïevski.
+- Stalin the court of the red Tsar, Simon Sebag Montefiore.
+
+- Never finished, David Goggins.
 
 - Discourse on Inequality, Jean-Jacques Rousseau.
 
-- Never finished, David Goggins.
+- L'éternel marie, Fiodor Dostoïevski.
